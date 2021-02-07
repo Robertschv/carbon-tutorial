@@ -23,5 +23,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .eslintcache
-
-REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN=ee4a338cf82078602633b2a11017f7c7dec022ea
